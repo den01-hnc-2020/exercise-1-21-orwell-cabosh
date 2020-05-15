@@ -1,5 +1,5 @@
 def main():
-    #write your code below this line
+
     number = int(input("Enter a number: "))
 
     if number == 1984:
